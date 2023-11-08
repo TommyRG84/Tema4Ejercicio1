@@ -1,0 +1,7 @@
+# Para ignorar todos los archivos de una extensión:
+
+*.png
+
+# Para ignorar el nombre de un archivo concreto:
+
+nombredelarchivo.ext
